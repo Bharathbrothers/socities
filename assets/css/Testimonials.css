@@ -20,6 +20,9 @@
     padding-top:25px;
     font-size:24px;
   }
+    .author{
+        align-self:center;
+    }
 }
 
 .testimonials-clean .intro {
@@ -33,21 +36,21 @@
 }
 
 .testimonials-clean .people {
-  padding:50px 0 20px;
+  padding:20px 0 20px;
 }
 
 .testimonials-clean .item {
-  margin-bottom:32px;
+  margin-bottom:2px;
 }
 
 @media (min-width:768px) {
   .testimonials-clean .item {
-    height:220px;
+    height:120px;
   }
 }
 
 .testimonials-clean .item .box {
-  padding:30px;
+  padding:10px;
   background-color:#fff;
   position:relative;
 }
@@ -65,7 +68,7 @@
 }
 
 .testimonials-clean .item .author {
-  margin-top:28px;
+  margin-top:18px;
   padding-left:25px;
 }
 
